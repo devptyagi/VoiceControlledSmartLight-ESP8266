@@ -7,4 +7,8 @@ Can be controlled using the Android App: https://github.com/devptyagi/VoiceContr
 
 ## Setup Diagram:
 
-<img src="Screenshots\smartLightSetup.png">
+<img src="Screenshots/smartLightSetup.png">
+
+## GIF:
+
+<img src="Screenshots/workingGIF.gif" height="400">
